@@ -9,11 +9,6 @@
 #include <string>
 #include <vector>
 
-// For registwin
-//#include "base/base_export.h"
-//#include "base/basictypes.h"
-//#include "base/stl_util.h"
-
 #define BASE_EXPORT
 
 #define DCHECK(condition) ((void)0)
