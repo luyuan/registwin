@@ -8,6 +8,7 @@
   "engines": {
     "node": ">=0.8.0"
   },
+  "os": [ "win32" ],
   "keywords": [
     "windows",
     "registry"
