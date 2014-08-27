@@ -1,6 +1,6 @@
 {
   "name": "registwin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./lib/index.js",
   "description": "Access the Windows Registry by the classes from Chromium",
   "homepage": "http://github.com/luyuan/registwin",
